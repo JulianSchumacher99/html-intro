@@ -39,6 +39,8 @@ p {
   text-align: center;
   margin: 3em;
   padding: 2em;
+  border: 3px solid #153975;
+  border-radius: 6px;
 }
 
 .tt-name-2 {
@@ -48,6 +50,8 @@ p {
   text-align: center;
   margin: 3em;
   padding: 2em;
+  border: 3px solid #153975;
+  border-radius: 6px;
 }
 
 .tt-name-3 {
@@ -57,6 +61,8 @@ p {
   text-align: center;
   margin: 3em;
   padding: 2em;
+  border: 3px solid #153975;
+  border-radius: 6px;
 }
 
 .tt-name-4 {
@@ -66,6 +72,8 @@ p {
   text-align: center;
   margin: 3em;
   padding: 2em;
+  border: 3px solid #153975;
+  border-radius: 6px;
 }
 
 #Form-Freundschaftsanfrage {
