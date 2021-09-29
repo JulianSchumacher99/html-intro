@@ -1,72 +1,71 @@
 h1 {
-    font-size: 26px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-  }
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
 
-  h2 {
-     font-size: 22px;
-     font-family: Arial, Helvetica, sans-serif; 
-  }
-  h3 {
-     font-size: 20px;
-     font-family: Arial, Helvetica, sans-serif; 
-  }
+h2 {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  p {
-     font-size: 18px;
-     font-family: Arial, Helvetica, sans-serif; 
-  }
+p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  .tt-container {
-      background: #EBF2FB;
-      padding-top: 20px;
-      padding-bottom: 20px;
-      width: 100%;
-  }
-  .tt-name-1 {
-      float: left;
-      width: 33%;
-      background: #EBF2FB;
-      text-align: center;
-  }
+.tt-container {
+  background: #ebf2fb;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.tt-name-1 {
+  float: left;
+  width: 33%;
+  background: #ebf2fb;
+  text-align: center;
+}
 
-  .tt-name-2 {
-        float: left;
-      width: 33%; 
-      background: #EBF2FB;
-      text-align: center;
-  }
+.tt-name-2 {
+  float: left;
+  width: 33%;
+  background: #ebf2fb;
+  text-align: center;
+}
 
-  .tt-name-3 {
-      float: left;
-      width: 33%;
-      background: #EBF2FB;
-      text-align: center;
-  }
+.tt-name-3 {
+  float: left;
+  width: 33%;
+  background: #ebf2fb;
+  text-align: center;
+}
 
-  #Form-Freundschaftsanfrage {
-      position: relative; 
-      display: flex;
-      justify-content: center;
-  }
+#Form-Freundschaftsanfrage {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
 
-  .tt-container-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-  }
-  #Input-Field {
-      display: block;
-      margin-bottom: 10px;
-  }
+.tt-container-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#Input-Field {
+  display: block;
+  margin-bottom: 10px;
+}
 
-  #Submit-button {
-      
-  }
+#Submit-button {
+}
 
-  .tt-content1 {
-      background: #EBF2FB;
-      padding-bottom: 20px;
-  }
+.tt-content1 {
+  background: #ebf2fb;
+  padding-bottom: 20px;
+}
