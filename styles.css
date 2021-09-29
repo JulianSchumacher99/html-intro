@@ -80,10 +80,9 @@ p {
   position: relative;
   display: flex;
   justify-content: center;
+  margin: 2rem;
 }
 
-.tt-container-img {
-}
 #Input-Field {
   display: block;
   margin-bottom: 0.7rem;
