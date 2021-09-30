@@ -57,6 +57,7 @@ p {
   padding: 2em;
   border: 1px solid #393939;
   border-radius: 6px;
+  transition: background 2s;
 }
 .tt-name h3 {
   font-size: 1.2em;
@@ -91,4 +92,8 @@ button:hover {
 
 .tt-coaches {
   margin-bottom: 3rem;
+}
+
+.tt-img-container {
+  margin: 8rem;
 }
