@@ -1,0 +1,99 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+html {
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #193251;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #193251;
+  padding-bottom: 0px;
+}
+h3 {
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #193251;
+}
+
+p {
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #393939;
+  padding-top: 2px;
+}
+
+.tt-container {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 25% 25% 25% 25%;
+}
+.tt-container2 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.tt-name {
+  background: #f8f8f8;
+  text-align: center;
+  margin: 0.5em;
+  padding: 2em;
+  border: 1px solid #393939;
+  border-radius: 6px;
+  transition: background 2s;
+}
+.tt-name h3 {
+  font-size: 1.2em;
+}
+
+#Input-Field {
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+.tt-content1 {
+  padding-bottom: 1.5rem;
+}
+
+button {
+  background: #ff5a36;
+  color: #ffffff;
+  border-radius: 6px;
+  min-width: 100px;
+  padding: 14px 16px;
+  border: 0px;
+}
+
+button:hover {
+  background: #ffffff;
+  color: #393939;
+  border-radius: 6px;
+  min-width: 100px;
+  padding: 14px 16px;
+  border: 0px;
+}
+
+.tt-coaches {
+  margin-bottom: 3rem;
+}
+
+.tt-img-container {
+  margin: 8rem;
+}
